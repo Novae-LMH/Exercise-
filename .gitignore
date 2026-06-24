@@ -1,0 +1,15 @@
+# Build outputs
+*.exe
+*.o
+*.obj
+
+# VS Code keeps project settings in .vscode. Keep them tracked for this C setup.
+
+# JetBrains/PyCharm local-only files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/shelf/
+*.iml
+
+# Codex local workspace metadata
+.agents/
